@@ -1,3 +1,3 @@
-Vercel Deployment : (https://insuranceservices.vercel.app/)
+Vercel Deployment : (https://insurance-services.vercel.app/)
 
 Created by Francis Irungu
